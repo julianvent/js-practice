@@ -14,3 +14,8 @@
 <br>
 
 ### Práctica 3
+![practica3-output](results/practica3-1.png)
+
+<br>
+
+### Práctica 4
